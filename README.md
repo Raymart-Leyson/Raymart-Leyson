@@ -16,6 +16,7 @@ Passionate computer science graduate with expertise in Java, Python, React JS, a
 - **Linux**: Experienced in Debian distributions
 - **Discord Bot Development**: Automation and functionality enhancement
 - **Graphics Design**: Visually engaging multimedia content creation
+- **Additional**: (Video Editting, SSM, Content Creation)
 
 ## Interests
 - Emerging technologies: AI, blockchain, quantum computing
