@@ -2,6 +2,9 @@
 
 Passionate computer science graduate with expertise in Java, Python, React JS, and more. Experienced in full-stack development, API integration, and machine learning. Fascinated by AI, blockchain, and gaming. Dedicated to making impactful contributions in software development and beyond.
 
+## Porfolio
+leyson.netlify.app
+
 ## Education
 - **Bachelor of Science in Computer Science**: Cebu Institute of Technology - University
 
