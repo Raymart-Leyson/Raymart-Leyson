@@ -1,6 +1,6 @@
 # About Me
 
-Passionate computer science graduate with expertise in Java, Python, React JS, and more. Experienced in full-stack development, API integration, and machine learning. Fascinated by AI, blockchain, and gaming. Dedicated to making impactful contributions in software development and beyond.
+He is a young professional based in Cebu City, passionate about software development. He specializes in building APIs using ASP.NET (C#) and Java, incorporating unit testing for reliability. Additionally, he has created dynamic web applications using React, TypeScript, and Angular, integrating APIs while styling them with Bootstrap, CSS, or Tailwind. He has basic experience with Docker and Linux, along with hands-on experience using Git for version control.
 
 ## Porfolio
 leyson.netlify.app
