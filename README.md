@@ -3,7 +3,8 @@
 **Cebu City, Philippines 🇵🇭**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2026-blueviolet?style=for-the-badge&logo=vercel)](https://raymartleyson-2026.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raymart-leyson/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:raymart.leyson.rl@gmail.com)
 
 ---
 
@@ -11,8 +12,8 @@
 I am a **Computer Science graduate** and former **Accenture Developer & Tester**. I specialize in the intersection of **Enterprise Stability** and **Generative AI**. From writing high-performance **C# and C++ backends** to orchestrating autonomous **n8n workflows**, I build tools that don't just work—they think.
 
 * 🔭 **Currently building:** AI-driven automation systems using n8n and Next.js.
-* 🧠 **Expertise:** Bridging legacy enterprise logic with modern LLM integrations.
-* ⚡ **Philosophy:** Performance-first development with a focus on scalability.
+* 🧠 **Expertise:** Bridging legacy enterprise logic with modern LLM (OpenAI, Gemini, Claude) integrations.
+* ⚡ **Philosophy:** Performance-first development with a focus on scalability and clean architecture.
 
 ---
 
@@ -75,6 +76,6 @@ I am a **Computer Science graduate** and former **Accenture Developer & Tester**
 
 ### 📫 Let's Connect!
 * **Portfolio:** [raymartleyson-2026.vercel.app](https://raymartleyson-2026.vercel.app)
-* **Email:** [raymart.leyson.rl@gmail.com]
+* **Email:** [raymart.leyson.rl@gmail.com](mailto:raymart.leyson.rl@gmail.com)
 
 *"I don't just learn skills; I master them to build the future."*
