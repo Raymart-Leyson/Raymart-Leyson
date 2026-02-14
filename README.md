@@ -68,13 +68,13 @@ I am a **Computer Science graduate** and former **Accenture Developer & Tester**
 ---
 
 ## 📊 My GitHub Stats
-![Raymart's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username-here&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username-here&layout=compact&theme=dark)
+![Raymart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raymart-Leyson&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raymart-Leyson&layout=compact&theme=dark)
 
 ---
 
 ### 📫 Let's Connect!
 * **Portfolio:** [raymartleyson-2026.vercel.app](https://raymartleyson-2026.vercel.app)
-* **Email:** [your-email@example.com]
+* **Email:** [raymart.leyson.rl@gmail.com]
 
 *"I don't just learn skills; I master them to build the future."*
